@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=BUFF163+Price+Updater)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=BUFF163+Price+Checker)](https://git.io/typing-svg)
 ---
 
 With this code you will be able to automatically read the names of CS:GO skins from your Google Sheets and enter the prices on the [Buff163](https://buff.163.com) service into the same Google Sheets.
