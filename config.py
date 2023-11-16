@@ -3,5 +3,6 @@ SHEET_ID = 0
 CELLS_SKINS = 'A2:A1000'
 CELLS_PRICE = 'C2:C1000'
 AUTH_FILE = 'google_auth_key.json'
+SLICE = 5
 CREATE_XLSX = False
 COPY_TO_CLIPBOARD = False

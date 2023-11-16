@@ -1,7 +1,4 @@
-/.venv
+**/__pycache__/
 /goods_ids.txt
 /google_auth_key.json
-/__pycache__
 /start.bat
-
-/classes/__pycache__

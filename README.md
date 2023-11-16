@@ -17,5 +17,6 @@ With this code you will be able to automatically read the names of CS:GO skins f
 - `CELLS_SKINS` - Cells with names of CS:GO skins.
 - `CELLS_PRICE` - Cells with prices of CS:GO skins.
 - `AUTH_FILE` - The name of your Google authorization key.
+- `SLICE` - The range of lots within one item to calculate the average price. If you want to get the minimum price, set it to `1`.
 - `CREATE_XLSX` - Create an xlsx file in the software folder.
 - `COPY_TO_CLIPBOARD` - Copy results to clipboard.
